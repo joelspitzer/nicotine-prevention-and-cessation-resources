@@ -146,8 +146,8 @@ table.cs-dashboard__grid tr:hover .is-links a {
 	font-weight: normal;
 	font-style: normal;
 	font-family: "automatticons";
-	src: url("./wp-content/plugins/polldaddy/css/automatticons-regular-webfont.eot");
-	src: url("./wp-content/plugins/polldaddy/css/automatticons-regular-webfont.eot#iefix") format("embedded-opentype"), url("./wp-content/plugins/polldaddy/css/automatticons-regular-webfont.woff") format("woff"), url("./wp-content/plugins/polldaddy/css/automatticons-regular-webfont.ttf") format("truetype"), url("./wp-content/plugins/polldaddy/css/automatticons-regular-webfont.svg#automatticons") format("svg");
+	src: url("/nicotine-prevention-and-cessation-resources/wp-content/plugins/polldaddy/css/automatticons-regular-webfont.eot");
+	src: url("/nicotine-prevention-and-cessation-resources/wp-content/plugins/polldaddy/css/automatticons-regular-webfont.eot#iefix") format("embedded-opentype"), url("/nicotine-prevention-and-cessation-resources/wp-content/plugins/polldaddy/css/automatticons-regular-webfont.woff") format("woff"), url("/nicotine-prevention-and-cessation-resources/wp-content/plugins/polldaddy/css/automatticons-regular-webfont.ttf") format("truetype"), url("/nicotine-prevention-and-cessation-resources/wp-content/plugins/polldaddy/css/automatticons-regular-webfont.svg#automatticons") format("svg");
 }
 
 #wpwrap, #wpcontent, #wpbody, #wpbody-content {
@@ -801,5 +801,5 @@ tr.polldaddy-shortcode-row input{float:left;background-color:#fff;border:1px sol
 #st_image{width:150px;padding:0px;margin:0px;height:200px;}
 #st_sizes{width:152px;text-align:center;font-size:12px;}
 #st_sizes a{width:150px;text-align:center;font-size:12px;}
-.st_image_loader{width:150px;padding:0px;margin:0px;background:url(./wp-content/plugins/polldaddy/img/st-loader.gif) no-repeat center center;}
+.st_image_loader{width:150px;padding:0px;margin:0px;background:url(/nicotine-prevention-and-cessation-resources/wp-content/plugins/polldaddy/img/st-loader.gif) no-repeat center center;}
 #st_description{padding:6px 0px;font-size:9px;width:300px;text-align:center;}
